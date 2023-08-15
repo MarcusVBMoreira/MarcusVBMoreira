@@ -7,6 +7,14 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusVBMoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Tenho conhecimento em:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<i class="devicon-css3-plain-wordmark colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<i class="devicon-photoshop-line colored"></i>
+<i class="devicon-wordpress-plain colored"></i>
+
 ## Contato:
 <div>
   <a href="https://www.instagram.com/marcus__vb/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
