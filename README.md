@@ -8,12 +8,15 @@
 </div>
 
 ## Tenho conhecimento em:
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
-<i class="devicon-photoshop-line colored"></i>
-<i class="devicon-wordpress-plain colored"></i>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+</div>
+
 
 ## Contato:
 <div>
