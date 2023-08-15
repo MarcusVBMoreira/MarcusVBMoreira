@@ -8,7 +8,7 @@
 </div>
 
 ## Tenho conhecimento em:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<i class="devicon-html5-plain colored"></i>
 <i class="devicon-css3-plain-wordmark colored"></i>
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-bootstrap-plain-wordmark colored"></i>
