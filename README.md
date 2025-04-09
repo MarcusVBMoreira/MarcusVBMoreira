@@ -19,11 +19,11 @@ Sou formado técnico em Informática pela ETEC Professora Maria Cristina Medeiro
 - Boas práticas de desenvolvimento
 
 ## 💼 Projetos Relevantes
+- [Landing Page Dr. Pedro Xavier](https://drpedroxavier.com.br) – Site para oftalmologista com foco em apresentação de serviços  
 - [HearMeOutt](https://github.com/Hearme0ut/site) – Plataforma de cursos de Libras com sistema de cadastro, aulas e PDFs  
 - [Sistema FETEPS](#) – Front-end em React para sistema de inscrição e visualização de projetos e palestras  
 - [Mapa Interativo Mundial](https://github.com/MarcusVBMoreira/Mapa_Mundi) – Visualização de informações detalhadas de países ao clicar no mapa  
 - [Landing Page Romaiap](https://github.com/MarcusVBMoreira/Romaiap) – Site institucional para empresa de aromaterapia (Fora do ar)
-- [Landing Page Dr. Pedro Xavier](https://drpedroxavier.com.br) – Site para oftalmologista com foco em apresentação de serviços  
 - [Site Bike Sports Gaspar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Loja virtual com vitrine de produtos (sem sistema de pagamento por decisão externa)  
 - [Site da Feira Escolar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Exibição e filtragem de projetos da feira por curso, ano e local
 
