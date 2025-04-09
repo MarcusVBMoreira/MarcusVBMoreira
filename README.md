@@ -10,26 +10,29 @@ Sou estudante técnico em Informática pela ETEC Professora Maria Cristina Medei
 - MySQL
 - Git e GitHub
 - Bootstrap, Figma, Canva
-- XAMPP, Hostinger
+- XAMPP, Hostinger, Hostigator
 - Pacote Office
 
 ## 🌱 Atualmente estudando
-- React (aperfeiçoando)
+- python (aperfeiçoando)
 - Integração de APIs
 - Boas práticas de desenvolvimento
 
 ## 💼 Projetos Relevantes
-- [HearMeOutt](#) – Plataforma de cursos de Libras com sistema de cadastro e aulas
-- [Sistema FETEPS](#) – Front-end de sistema com React para inscrições e gestão de eventos
-- [Mapa Interativo Mundial](#) – Site com dados dinâmicos de países
-- E muito mais nos meus repositórios!
+- [HearMeOutt](https://github.com/Hearme0ut/site) – Plataforma de cursos de Libras com sistema de cadastro, aulas e PDFs  
+- [Sistema FETEPS](#) – Front-end em React para sistema de inscrição e visualização de projetos e palestras  
+- [Mapa Interativo Mundial](https://github.com/MarcusVBMoreira/Mapa_Mundi) – Visualização de informações detalhadas de países ao clicar no mapa  
+- [Landing Page Romaiap](https://github.com/MarcusVBMoreira/Romaiap) – Site institucional para empresa de aromaterapia (Fora do ar)
+- [Landing Page Dr. Pedro Xavier](https://drpedroxavier.com.br) – Site para oftalmologista com foco em apresentação de serviços  
+- [Site Bike Sports Gaspar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Loja virtual com vitrine de produtos (sem sistema de pagamento por decisão externa)  
+- [Site da Feira Escolar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Exibição e filtragem de projetos da feira por curso, ano e local
 
 ## 📜 Certificados
-- Curso LGPD – EV.GOV – 2h
-- Curso Python Básico – EV.GOV – 18h
+- Curso LGPD – EV.GOV – 2h  
+- Curso Python Básico – EV.GOV – 18h  
 - Desenvolvimento Front-end – FETEPS – 40h
 
 ## 📫 Contato
-- Email: moreira.marcus.vb@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marcusvbmoreira)
-- [Portfólio](https://marcusvbmoreira.github.io/Portfolio_MarcusMoreira/)
+- Email: moreira.marcus.vb@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/marcusvbmoreira)  
+- [Portfólio](#)
