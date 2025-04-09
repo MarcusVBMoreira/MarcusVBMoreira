@@ -1,7 +1,7 @@
 # Olá, me chamo Marcus Moreira! 👋
 
 ## 👨‍💻 Sobre mim
-Sou estudante técnico em Informática pela ETEC Professora Maria Cristina Medeiros, com experiência prática em desenvolvimento web front-end e back-end. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e crescer na área de TI.
+Sou formado técnico em Informática pela ETEC Professora Maria Cristina Medeiros, com experiência prática em desenvolvimento web front-end e back-end. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e crescer na área de TI.
 
 ## 🛠️ Tecnologias e Ferramentas
 - HTML, CSS, JavaScript
