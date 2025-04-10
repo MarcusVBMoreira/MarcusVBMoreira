@@ -28,9 +28,9 @@ Sou formado técnico em Informática pela ETEC Professora Maria Cristina Medeiro
 - [Site da Feira Escolar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Exibição e filtragem de projetos da feira por curso, ano e local
 
 ## 📜 Certificados
-- Curso LGPD – EV.GOV – 2h  
-- Curso Python Básico – EV.GOV – 18h  
-- Desenvolvimento Front-end – FETEPS – 40h
+- Curso LGPD – EV.GOV – 2h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Curso%20LGPD.pdf)
+- Curso Python Básico – EV.GOV – 18h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Curso%20Python%20Basico.pdf)
+- Desenvolvimento Front-end – FETEPS – 40h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Feteps.pdf)
 
 ## 📫 Contato
 - Email: moreira.marcus.vb@gmail.com  
