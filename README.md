@@ -35,4 +35,3 @@ Sou formado técnico em Informática pela ETEC Professora Maria Cristina Medeiro
 ## 📫 Contato
 - Email: moreira.marcus.vb@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/marcusvbmoreira)  
-- [Portfólio](#)
