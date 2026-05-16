@@ -58,7 +58,7 @@ A complete web system developed to manage an annual Halloween event.
 
 ## 💼 Featured Projects
 
-### 🌐 [Dr. Pedro Xavier Landing Page](https://drpedroxavier.com.br)
+### 🌐 [Dr. Pedro Xavier Landing Page](https://drpedroxavier.com.br](https://github.com/MarcusVBMoreira/Pedro-Xavier)
 Professional website for an ophthalmologist focused on modern UI and service presentation.
 
 ### 🤟 [HearMeOutt](https://github.com/Hearme0ut/site)
