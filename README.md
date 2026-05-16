@@ -1,104 +1,128 @@
-Hi, I'm Marcus Moreira 👋
-👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Marcus Moreira</h1>
+<h3 align="center">Software Engineering Student & Full Stack Web Developer</h3>
 
-I'm currently studying Software Engineering at Fundação Santo André and graduated as an IT Technician from ETEC Professora Maria Cristina Medeiros.
+<p align="center">
+  Passionate about technology, web development, UI design and creating complete systems.
+</p>
 
-I'm passionate about web development, UI design, and building complete systems.
+---
 
-I have practical experience with both front-end and back-end development, working on everything from modern interfaces to database integration, user authentication, and real-world application deployment.
+## 👨‍💻 About Me
 
-Currently, I’m looking for my first professional opportunity in the IT field, where I can improve my skills, contribute to real projects, and continue learning new technologies.
+- 🎓 Studying **Software Engineering** at Fundação Santo André  
+- 💻 Graduated as an **IT Technician** from ETEC Professora Maria Cristina Medeiros  
+- 🚀 Focused on **Front-end & Back-end Development**
+- 🌱 Currently improving my skills in **Python**, **APIs**, and **Software Architecture**
+- 🎯 Looking for my first professional opportunity in the IT field
 
-🚀 Technologies & Tools
-💻 Development
-HTML5, CSS3, JavaScript
-PHP (Intermediate/Advanced)
-Python
-React (Basic)
-MySQL
-⚙️ Tools
-Git & GitHub
-XAMPP
-Hostinger / HostGator
-VS Code
-Figma
-Canva
-Bootstrap
-📚 Additional Knowledge
-API Integration
-Responsive Design & UI/UX
-Database Structuring
-Web Hosting & Deployment
-Microsoft Office Package
-🌱 Currently Learning
-Python (advanced improvement)
-Web system architecture
-API integrations
-Development best practices
-User experience (UI/UX)
-🎃 Featured Project
-HALLOWEEN 2026
+---
 
-A complete web system created to manage an annual Halloween event.
+## 🚀 Technologies & Tools
 
-🔥 Features
-User authentication system
-Random team generator
-Real-time leaderboard
-Admin dashboard
-Costume voting system
-Game and score management
-Fully responsive themed interface
-🛠️ Technologies Used
+### 💻 Languages & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,mysql" />
+</p>
 
-PHP • JavaScript • MySQL • AJAX • HTML • CSS
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bootstrap" />
+</p>
 
-💼 Featured Projects
-🌐 Dr. Pedro Xavier Landing Page
+- XAMPP
+- Hostinger / HostGator
+- Canva
+- Microsoft Office
 
-Professional website for an ophthalmologist focused on service presentation and modern UI.
+---
 
-🤟 HearMeOutt
+## 🎃 Featured Project
 
-Sign language course platform with user registration, classes, and PDF materials.
+# [HALLOWEEN 2026](https://halloweenmarimarcus.com.br)
 
-🧠 FETEPS System
+A complete web system developed to manage an annual Halloween event.
 
-React front-end developed for project and lecture registration/viewing.
+### 🔥 Features
+- User authentication
+- Random team generator
+- Real-time leaderboard
+- Admin dashboard
+- Costume voting system
+- Responsive UI with themed design
+- Game and score management
 
-🌍 Interactive World Map
+### 🛠️ Technologies Used
+`PHP` `JavaScript` `AJAX` `MySQL` `HTML` `CSS`
 
-Interactive application that displays detailed country information when clicking on the map.
+---
 
-🌿 Romaiap Landing Page
+## 💼 Featured Projects
 
+### 🌐 [Dr. Pedro Xavier Landing Page](https://drpedroxavier.com.br)
+Professional website for an ophthalmologist focused on modern UI and service presentation.
+
+### 🤟 [HearMeOutt](https://github.com/Hearme0ut/site)
+Sign language learning platform with classes, PDFs, and user authentication.
+
+### 🌍 [Interactive World Map](https://github.com/MarcusVBMoreira/Mapa_Mundi)
+Interactive application that displays detailed information about countries.
+
+### 🌿 [Romaiap Landing Page](https://github.com/MarcusVBMoreira/Romaiap)
 Institutional website developed for an aromatherapy company.
 
-🚴 Bike Sports Gaspar
+### 🚴 [Bike Sports Gaspar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar)
+Virtual store with online product showcase and catalog system.
 
-Virtual store with a complete product showcase and online catalog.
+### 🏫 School Fair Website
+Project filtering and visualization system for school events and exhibitions.
 
-🏫 School Fair Website
+---
 
-System for displaying and filtering school fair projects by course, year, and location.
+## 📚 Currently Learning
 
-📜 Certifications
-📄 LGPD Course – EV.GOV – 2h
-View Certificate
-📄 Basic Python Course – EV.GOV – 18h
-View Certificate
-📄 Front-end Development – FETEPS – 40h
-View Certificate
-📫 Contact
-📧 Email: moreira.marcus.vb@gmail.com
-💼 LinkedIn:
-linkedin.com/in/marcusvbmoreira
-📊 GitHub Stats
-![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusVBMoreira&show_icons=true&theme=tokyonight)
+- Python
+- API Integration
+- Software Architecture
+- Clean Code & Best Practices
+- UI/UX Design
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVBMoreira&layout=compact&theme=tokyonight)
-⚡ Fun Facts
-I enjoy creating modern interfaces with smooth animations
-I like building complete systems with authentication and real-time features
-I enjoy turning creative ideas into functional projects
-Passionate about technology, design, and web development
+---
+
+## 📜 Certifications
+
+- 📄 LGPD Course – EV.GOV – 2h  
+- 📄 Basic Python Course – EV.GOV – 18h  
+- 📄 Front-end Development – FETEPS – 40h  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcusVBMoreira&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVBMoreira&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:moreira.marcus.vb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/marcusvbmoreira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎨 I enjoy creating modern interfaces with smooth animations
+- ⚡ I like building complete systems with authentication and real-time features
+- 💡 I enjoy turning creative ideas into functional projects
+- 🎃 Creator of the HALLOWEEN 2026 event system
