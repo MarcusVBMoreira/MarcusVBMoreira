@@ -1,37 +1,104 @@
-# Olá, me chamo Marcus Moreira! 👋
+Hi, I'm Marcus Moreira 👋
+👨‍💻 About Me
 
-## 👨‍💻 Sobre mim
-Sou formado técnico em Informática pela ETEC Professora Maria Cristina Medeiros, com experiência prática em desenvolvimento web front-end e back-end. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos e crescer na área de TI.
+I'm currently studying Software Engineering at Fundação Santo André and graduated as an IT Technician from ETEC Professora Maria Cristina Medeiros.
 
-## 🛠️ Tecnologias e Ferramentas
-- HTML, CSS, JavaScript
-- PHP (médio/avançado), Python (básico)
-- React (básico)
-- MySQL
-- Git e GitHub
-- Bootstrap, Figma, Canva
-- XAMPP, Hostinger, Hostigator
-- Pacote Office
+I'm passionate about web development, UI design, and building complete systems.
 
-## 🌱 Atualmente estudando
-- python (aperfeiçoando)
-- Integração de APIs
-- Boas práticas de desenvolvimento
+I have practical experience with both front-end and back-end development, working on everything from modern interfaces to database integration, user authentication, and real-world application deployment.
 
-## 💼 Projetos Relevantes
-- [Landing Page Dr. Pedro Xavier](https://drpedroxavier.com.br) – Site para oftalmologista com foco em apresentação de serviços  
-- [HearMeOutt](https://github.com/Hearme0ut/site) – Plataforma de cursos de Libras com sistema de cadastro, aulas e PDFs  
-- [Sistema FETEPS](#) – Front-end em React para sistema de inscrição e visualização de projetos e palestras  
-- [Mapa Interativo Mundial](https://github.com/MarcusVBMoreira/Mapa_Mundi) – Visualização de informações detalhadas de países ao clicar no mapa  
-- [Landing Page Romaiap](https://github.com/MarcusVBMoreira/Romaiap) – Site institucional para empresa de aromaterapia (Fora do ar)
-- [Site Bike Sports Gaspar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Loja virtual com vitrine de produtos (sem sistema de pagamento por decisão externa)  
-- [Site da Feira Escolar](https://github.com/MarcusVBMoreira/Bike-Sports-Gaspar) – Exibição e filtragem de projetos da feira por curso, ano e local
+Currently, I’m looking for my first professional opportunity in the IT field, where I can improve my skills, contribute to real projects, and continue learning new technologies.
 
-## 📜 Certificados
-- Curso LGPD – EV.GOV – 2h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Curso%20LGPD.pdf)
-- Curso Python Básico – EV.GOV – 18h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Curso%20Python%20Basico.pdf)
-- Desenvolvimento Front-end – FETEPS – 40h - [Visualizar certificado](https://github.com/MarcusVBMoreira/Certificados/raw/main/Certificado%20Feteps.pdf)
+🚀 Technologies & Tools
+💻 Development
+HTML5, CSS3, JavaScript
+PHP (Intermediate/Advanced)
+Python
+React (Basic)
+MySQL
+⚙️ Tools
+Git & GitHub
+XAMPP
+Hostinger / HostGator
+VS Code
+Figma
+Canva
+Bootstrap
+📚 Additional Knowledge
+API Integration
+Responsive Design & UI/UX
+Database Structuring
+Web Hosting & Deployment
+Microsoft Office Package
+🌱 Currently Learning
+Python (advanced improvement)
+Web system architecture
+API integrations
+Development best practices
+User experience (UI/UX)
+🎃 Featured Project
+HALLOWEEN 2026
 
-## 📫 Contato
-- Email: moreira.marcus.vb@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/marcusvbmoreira)  
+A complete web system created to manage an annual Halloween event.
+
+🔥 Features
+User authentication system
+Random team generator
+Real-time leaderboard
+Admin dashboard
+Costume voting system
+Game and score management
+Fully responsive themed interface
+🛠️ Technologies Used
+
+PHP • JavaScript • MySQL • AJAX • HTML • CSS
+
+💼 Featured Projects
+🌐 Dr. Pedro Xavier Landing Page
+
+Professional website for an ophthalmologist focused on service presentation and modern UI.
+
+🤟 HearMeOutt
+
+Sign language course platform with user registration, classes, and PDF materials.
+
+🧠 FETEPS System
+
+React front-end developed for project and lecture registration/viewing.
+
+🌍 Interactive World Map
+
+Interactive application that displays detailed country information when clicking on the map.
+
+🌿 Romaiap Landing Page
+
+Institutional website developed for an aromatherapy company.
+
+🚴 Bike Sports Gaspar
+
+Virtual store with a complete product showcase and online catalog.
+
+🏫 School Fair Website
+
+System for displaying and filtering school fair projects by course, year, and location.
+
+📜 Certifications
+📄 LGPD Course – EV.GOV – 2h
+View Certificate
+📄 Basic Python Course – EV.GOV – 18h
+View Certificate
+📄 Front-end Development – FETEPS – 40h
+View Certificate
+📫 Contact
+📧 Email: moreira.marcus.vb@gmail.com
+💼 LinkedIn:
+linkedin.com/in/marcusvbmoreira
+📊 GitHub Stats
+![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusVBMoreira&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVBMoreira&layout=compact&theme=tokyonight)
+⚡ Fun Facts
+I enjoy creating modern interfaces with smooth animations
+I like building complete systems with authentication and real-time features
+I enjoy turning creative ideas into functional projects
+Passionate about technology, design, and web development
